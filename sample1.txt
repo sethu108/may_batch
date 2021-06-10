@@ -1,0 +1,2 @@
+this is sample1.txt
+and i am adding this after adding sample to the repository
